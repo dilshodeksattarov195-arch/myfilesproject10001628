@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseptringify",
+        "uuid": 5904756,
+        "checksum": "ytqqek"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
